@@ -1,6 +1,7 @@
-#Credit-Card-Approval-Prediction
+Credit-Card-Approval-Prediction
 
-###Repository Structure
+Repository Structure
+
 1. Brainstorming & Ideation
 2. Requirement Analysis
 3. Project Design Phase
